@@ -1,7 +1,7 @@
 # BASF Jobs India
 
-> **Last updated: 2026-03-18T16:04:19Z**
-> Total positions: **36** | Locations: **11**
+> **Last updated: 2026-03-18T19:13:45Z**
+> Total positions: **35** | Locations: **11**
 
 ---
 
@@ -14,7 +14,7 @@
 | Gujarat | Dahej | 1 |
 | Gujarat | Panoli | 1 |
 | Karnataka | Mangalore | 3 |
-| Maharashtra | Godrej One - Mumbai | 11 |
+| Maharashtra | Godrej One - Mumbai | 10 |
 | Maharashtra | Navi Mumbai | 1 |
 | Maharashtra | Navi Mumbai - HO (Innovation Campus) | 11 |
 | Maharashtra | Navi Mumbai - HO (Turbhe) | 2 |
@@ -362,26 +362,6 @@
 | **Contact** | Caroline Pham | caroline.pham@basf.com |
 
 **Description:** About the Role This role's responsibility includes handling entire gamut of direct tax compliance, litigation and advisory for Group Company of BASF India. How You Will Do It Manage Quarterly Advance tax compliances Manage Withholding tax compliance (Domestic as well as foreign vendors including Div...
-
----
-
-#### GST-Assistant Manager
-
-| Field | Value |
-|---|---|
-| **Job ID** | 131717 |
-| **Company** | BASF India Limited |
-| **Location** | Godrej One - Mumbai, Maharashtra |
-| **Field** | Finance, Controlling & Audit |
-| **Department** | GBA/FI |
-| **Level** | Professional |
-| **Type** | Permanent |
-| **Hybrid** | No |
-| **Posted** | 2026-01-02 |
-| **Link** | https://basf.jobs/job-invite/131717/?locale=en_US |
-| **Contact** | Caroline Pham | caroline.pham@basf.com |
-
-**Description:** About the Role This role's responsibility is to assist with GST related Compliance, Operations, Advisory, Litigation and Automation projects. How You Will Do It Handling GST litigation at various levels Assisting with GST compliances such as GSTR 1, GSTR 3B, GSTR 6, ITC 04, GSTR 9, GSTR 9C, GST TDS,...
 
 ---
 
