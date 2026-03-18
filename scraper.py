@@ -218,7 +218,7 @@ def generate_readme(jobs, regions, sorted_regions, timestamp):
 
     stats += "\n---\n\n"
 
-    # ── Jobs nach State gruppiert ────────────────────────────────────────────
+    # ── Jobs nach State gruppiert ───────────────────────────────────────────
     job_sections = ""
     current_state = None
 
