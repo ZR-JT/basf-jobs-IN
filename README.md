@@ -1,7 +1,7 @@
 # BASF Jobs India
 
-> **Last updated: 2026-03-25T21:57:10Z**
-> Total positions: **35** | Locations: **11**
+> **Last updated: 2026-03-26T05:53:22Z**
+> Total positions: **36** | Locations: **11**
 
 ---
 
@@ -14,7 +14,7 @@
 | Gujarat | Dahej | 1 |
 | Gujarat | Panoli | 1 |
 | Karnataka | Mangalore | 3 |
-| Maharashtra | Godrej One - Mumbai | 10 |
+| Maharashtra | Godrej One - Mumbai | 11 |
 | Maharashtra | Navi Mumbai | 1 |
 | Maharashtra | Navi Mumbai - HO (Innovation Campus) | 11 |
 | Maharashtra | Navi Mumbai - HO (Turbhe) | 2 |
@@ -191,6 +191,27 @@
 ## Maharashtra
 
 ### Godrej One - Mumbai
+
+#### Local Business Director, South Asia
+
+| Field | Value |
+|---|---|
+| **Job ID** | 134858 |
+| **Company** | BASF India Limited |
+| **Location** | Godrej One - Mumbai, Maharashtra |
+| **Field** | General Management |
+| **Department** | A-EDA |
+| **Level** | Professional |
+| **Type** | Permanent |
+| **Hybrid** | No |
+| **Posted** | 2026-03-26 |
+| **Apply URL (share with users)** | https://basf.jobs/job-invite/134858/?locale=en_US |
+| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-134858.html |
+| **Contact** | Deepashri Nair | deepashri.nair@basf.com | +910226791-7499 |
+
+**Description:** O bjectives of the Position To Lead and execute the Dispersions (ED - A-EDA) business in the sub-region. To implement the regional and local business strategies and achieve short- and long-term operational targets as agreed with A-EDA. To be fully accountable for financial performance of A-EDA in co...
+
+---
 
 #### Supply Chain Planning and Digital Excellence
 
