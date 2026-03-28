@@ -1,7 +1,7 @@
 # BASF Jobs India
 
-> **Last updated: 2026-03-28T05:16:11Z**
-> Total positions: **36** | Locations: **11**
+> **Last updated: 2026-03-28T09:55:35Z**
+> Total positions: **37** | Locations: **11**
 
 ---
 
@@ -14,7 +14,7 @@
 | Gujarat | Dahej | 1 |
 | Gujarat | Panoli | 1 |
 | Karnataka | Mangalore | 3 |
-| Maharashtra | Godrej One - Mumbai | 11 |
+| Maharashtra | Godrej One - Mumbai | 12 |
 | Maharashtra | Navi Mumbai | 1 |
 | Maharashtra | Navi Mumbai - HO (Innovation Campus) | 11 |
 | Maharashtra | Navi Mumbai - HO (Turbhe) | 2 |
@@ -191,6 +191,27 @@
 ## Maharashtra
 
 ### Godrej One - Mumbai
+
+#### Chief Financial Officer - BASF Agricultural Solutions India Pvt. Ltd.
+
+| Field | Value |
+|---|---|
+| **Job ID** | 134840 |
+| **Company** | BASF India Limited |
+| **Location** | Godrej One - Mumbai, Maharashtra |
+| **Field** | Finance, Controlling & Audit |
+| **Department** | A-APA/OI |
+| **Level** | Professional |
+| **Type** | Permanent |
+| **Hybrid** | No |
+| **Posted** | 2026-03-28 |
+| **Apply URL (share with users)** | https://basf.jobs/job-invite/134840/?locale=en_US |
+| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-134840.html |
+| **Contact** | Shruti Mishra | shruti.a.mishra@partners.basf.com |
+
+**Description:** Objective of the Position: The Chief Financial Officer (CFO) will be a strategic partner to the Board and Management, responsible for financial stewardship, capital allocation, and sustainable value creation for the new legal entity BASF Agricultural Solutions India Ltd. Given the Company’s stock‑ex...
+
+---
 
 #### Local Business Director, South Asia
 
