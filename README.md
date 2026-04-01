@@ -1,7 +1,7 @@
 # BASF Jobs India
 
-> **Last updated: 2026-04-01T15:59:07Z**
-> Total positions: **36** | Locations: **11**
+> **Last updated: 2026-04-01T19:45:31Z**
+> Total positions: **35** | Locations: **10**
 
 ---
 
@@ -12,7 +12,6 @@
 | Andhra Pradesh | Hyderabad | 1 |
 | Delhi | Delhi | 1 |
 | Gujarat | Dahej | 1 |
-| Gujarat | Jamnagar | 1 |
 | Gujarat | Panoli | 1 |
 | Karnataka | Mangalore | 3 |
 | Maharashtra | Godrej One - Mumbai | 13 |
@@ -95,29 +94,6 @@
 | **Contact** | Sejal Sandeep Singh | sejal.sandeep-singh@partners.basf.com |
 
 **Description:** Objectives of the Position: As a designated Shift Supervisor, takes responsibility of Safety, Production, Quality of System House plant in the shifts. Main Tasks: Coordinate and manage production in shift with consistent Quality and Safety as per the target. Manage the manpower planning in the shift...
-
----
-
-### Jamnagar
-
-#### GROW Trainee - Sales
-
-| Field | Value |
-|---|---|
-| **Job ID** | 135142 |
-| **Company** | BASF India Limited |
-| **Location** | Jamnagar, Gujarat |
-| **Field** | Marketing & Sales |
-| **Department** | A-APA/OI |
-| **Level** | Graduate |
-| **Type** | Permanent |
-| **Hybrid** | No |
-| **Posted** | 2026-04-01 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/135142/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-135142.html |
-| **Contact** | Shruti Mishra | shruti.a.mishra@partners.basf.com |
-
-**Description:** GROW Trainee – Sales The GROW Trainee would be part of the Agricultural Solutions Platform for BASF in India. The Job role would be that of a Sales Professional . Key Responsibilties: Ensure achievement of territory Business Results – Sales (prepare monthly Sales activity, monthly collection plannin...
 
 ---
 
