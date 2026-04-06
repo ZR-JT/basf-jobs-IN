@@ -1,7 +1,7 @@
 # BASF Jobs India
 
-> **Last updated: 2026-04-06T18:38:08Z**
-> Total positions: **36** | Locations: **10**
+> **Last updated: 2026-04-06T21:53:34Z**
+> Total positions: **38** | Locations: **10**
 
 ---
 
@@ -15,7 +15,7 @@
 | Gujarat | Panoli | 1 |
 | Karnataka | Mangalore | 3 |
 | Maharashtra | Godrej One - Mumbai | 14 |
-| Maharashtra | Navi Mumbai - HO (Innovation Campus) | 9 |
+| Maharashtra | Navi Mumbai - HO (Innovation Campus) | 11 |
 | Maharashtra | Navi Mumbai - HO (Turbhe) | 2 |
 | Maharashtra | Thane | 3 |
 | Tamil Nadu | Coimbatore | 1 |
@@ -486,6 +486,48 @@
 ---
 
 ### Navi Mumbai - HO (Innovation Campus)
+
+#### Research chemist
+
+| Field | Value |
+|---|---|
+| **Job ID** | 135301 |
+| **Company** | BASF Chemicals India Pvt. Ltd. |
+| **Location** | Navi Mumbai - HO (Innovation Campus), Maharashtra |
+| **Field** | Research & Development |
+| **Department** | RGR/CD |
+| **Level** | Professional |
+| **Type** | Permanent |
+| **Hybrid** | No |
+| **Posted** | 2026-04-06 |
+| **Apply URL (share with users)** | https://basf.jobs/job-invite/135301/?locale=en_US |
+| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-135301.html |
+| **Contact** | Barkha Dawra | barkha.dawra@partners.basf.com |
+
+**Description:** About The Role Synthesis and scale-up of small organic molecules / intermediates / active ingredients on milligram to multikilogram quantities Planning of synthesis including retrosynthesis and literature search Process development optimization of routes to advanced intermediates/finished products (...
+
+---
+
+#### Research chemist
+
+| Field | Value |
+|---|---|
+| **Job ID** | 135300 |
+| **Company** | BASF Chemicals India Pvt. Ltd. |
+| **Location** | Navi Mumbai - HO (Innovation Campus), Maharashtra |
+| **Field** | Research & Development |
+| **Department** | RGR/CD |
+| **Level** | Professional |
+| **Type** | Permanent |
+| **Hybrid** | No |
+| **Posted** | 2026-04-06 |
+| **Apply URL (share with users)** | https://basf.jobs/job-invite/135300/?locale=en_US |
+| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-135300.html |
+| **Contact** | Barkha Dawra | barkha.dawra@partners.basf.com |
+
+**Description:** About The Role Synthesis and scale-up of small organic molecules / intermediates / active ingredients on milligram to multikilogram quantities Planning of synthesis including retrosynthesis and literature search Process development optimization of routes to advanced intermediates/finished products (...
+
+---
 
 #### Data Science Specialist - IP (on contract)
 
