@@ -1,6 +1,6 @@
 # BASF Jobs India
 
-> **Last updated: 2026-04-05T21:04:04Z**
+> **Last updated: 2026-04-06T06:20:01Z**
 > Total positions: **34** | Locations: **10**
 
 ---
@@ -374,7 +374,7 @@
 | **Posted** | 2026-01-20 |
 | **Apply URL (share with users)** | https://basf.jobs/job-invite/130578/?locale=en_US |
 | **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-130578.html |
-| **Contact** | Caroline Pham | caroline.pham@basf.com |
+| **Contact** | Barkha Dawra | barkha.dawra@partners.basf.com |
 
 **Description:** O bjectives of the Position : Drive Sales Business development activities for CPH SBU in sub region, including working with channel partners as appropriate M ain Tasks: CPH sales Service existing B2B customers and identify new customers to diversify customer base to ensure sustainable and healthy bu...
 
