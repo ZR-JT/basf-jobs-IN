@@ -1,7 +1,7 @@
 # BASF Jobs India
 
-> **Last updated: 2026-04-06T21:53:34Z**
-> Total positions: **38** | Locations: **10**
+> **Last updated: 2026-04-07T06:00:17Z**
+> Total positions: **37** | Locations: **10**
 
 ---
 
@@ -15,7 +15,7 @@
 | Gujarat | Panoli | 1 |
 | Karnataka | Mangalore | 3 |
 | Maharashtra | Godrej One - Mumbai | 14 |
-| Maharashtra | Navi Mumbai - HO (Innovation Campus) | 11 |
+| Maharashtra | Navi Mumbai - HO (Innovation Campus) | 10 |
 | Maharashtra | Navi Mumbai - HO (Turbhe) | 2 |
 | Maharashtra | Thane | 3 |
 | Tamil Nadu | Coimbatore | 1 |
@@ -631,27 +631,6 @@
 | **Contact** | Barkha Dawra | barkha.dawra@partners.basf.com |
 
 **Description:** Objective To lead a team of chemists and engineer for successful execution of research projects within specified timeline and budget while adhering to company EHS guidelines and policies. To create innovative projects and bring new know-how, technologies, products, and processes for the company. Mai...
-
----
-
-#### Deputy Manager - Application Technology Rinse-off 1 1
-
-| Field | Value |
-|---|---|
-| **Job ID** | 130216 |
-| **Company** | BASF Chemicals India Pvt. Ltd. |
-| **Location** | Navi Mumbai - HO (Innovation Campus), Maharashtra |
-| **Field** | Production, Maintenance & Technical Services |
-| **Department** | G-EMP/RA |
-| **Level** | Professional |
-| **Type** | Permanent |
-| **Hybrid** | No |
-| **Posted** | 2026-01-20 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/130216/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-130216.html |
-| **Contact** | Caroline Pham | caroline.pham@basf.com |
-
-**Description:** (A) Core Purpose Develop skin leave-on application technology based on business needs and contribute to build up identified technical competences and the necessary know-how for South Asia market and beyond. Contribute to regional technical support and preparation of promotion kits for skin care/sun ...
 
 ---
 
