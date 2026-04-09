@@ -1,7 +1,7 @@
 # BASF Jobs India
 
-> **Last updated: 2026-04-09T06:07:28Z**
-> Total positions: **38** | Locations: **10**
+> **Last updated: 2026-04-09T11:33:36Z**
+> Total positions: **39** | Locations: **10**
 
 ---
 
@@ -14,7 +14,7 @@
 | Gujarat | Dahej | 1 |
 | Gujarat | Panoli | 1 |
 | Karnataka | Mangalore | 3 |
-| Maharashtra | Godrej One - Mumbai | 15 |
+| Maharashtra | Godrej One - Mumbai | 16 |
 | Maharashtra | Navi Mumbai - HO (Innovation Campus) | 10 |
 | Maharashtra | Navi Mumbai - HO (Turbhe) | 2 |
 | Maharashtra | Thane | 3 |
@@ -190,6 +190,27 @@
 ## Maharashtra
 
 ### Godrej One - Mumbai
+
+#### Manager, Sales India
+
+| Field | Value |
+|---|---|
+| **Job ID** | 135033 |
+| **Company** | BASF India Limited |
+| **Location** | Godrej One - Mumbai, Maharashtra |
+| **Field** | Marketing & Sales |
+| **Department** | G-EVP/AA |
+| **Level** | Professional |
+| **Type** | Permanent |
+| **Hybrid** | No |
+| **Posted** | 2026-04-09 |
+| **Apply URL (share with users)** | https://basf.jobs/job-invite/135033/?locale=en_US |
+| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-135033.html |
+| **Contact** | Barkha Dawra | barkha.dawra@partners.basf.com |
+
+**Description:** About The Role Develop and implement the sales activities to realize the mid and long-term objectives of the plastic additives business both Up Stream (Polymer Manufacturer) and Down Stream (Converter/ Compounder/ Masterbatcher) in India How Will You Do It Sales development: Develop sales plan and e...
+
+---
 
 #### Business Controller - Performance Materials, India
 
@@ -670,7 +691,7 @@
 | **Posted** | 2026-01-20 |
 | **Apply URL (share with users)** | https://basf.jobs/job-invite/130205/?locale=en_US |
 | **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-130205.html |
-| **Contact** | Caroline Pham | caroline.pham@basf.com |
+| **Contact** | Barkha Dawra | barkha.dawra@partners.basf.com |
 
 **Description:** (A) Core Purpose Be responsible for building up application technology competences in rinse-off areas, especially bar soap and hair conditioning e.g. hair oils and shampoo. Lead and develop regional marketing concepts, support key customer projects based on identified business needs in South Asia Be...
 
@@ -691,7 +712,7 @@
 | **Posted** | 2026-01-20 |
 | **Apply URL (share with users)** | https://basf.jobs/job-invite/130215/?locale=en_US |
 | **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-130215.html |
-| **Contact** | Caroline Pham | caroline.pham@basf.com |
+| **Contact** | Barkha Dawra | barkha.dawra@partners.basf.com |
 
 **Description:** (A) Core Purpose Develop rinse-off application technology based on business needs and contribute to build up identified technical competences and the necessary know how for South Asia market and beyond. Contribute to regional technical support and preparation of promotion kits for rinse-off product ...
 
