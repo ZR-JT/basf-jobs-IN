@@ -1,7 +1,7 @@
 # BASF Jobs India
 
-> **Last updated: 2026-04-09T22:03:12Z**
-> Total positions: **39** | Locations: **10**
+> **Last updated: 2026-04-10T06:21:17Z**
+> Total positions: **40** | Locations: **11**
 
 ---
 
@@ -19,6 +19,7 @@
 | Maharashtra | Navi Mumbai - HO (Turbhe) | 2 |
 | Maharashtra | Thane | 3 |
 | Tamil Nadu | Coimbatore | 1 |
+| Unknown | Pune | 1 |
 
 ---
 
@@ -870,6 +871,31 @@
 | **Contact** | Priyanka Thakur | priyanka.thakur@partners.basf.com |
 
 **Description:** O bjectives of the Position The primary objective of this role is to develop and growth BASF’s Animal Nutrition feed additive market Act as commercial manager to handle Enzyme PI (ENE), strong focus on feed enzyme business in South India Sri Lanka Drive and grow profitably ENE sales via effective vo...
+
+---
+
+## Unknown
+
+### Pune
+
+#### Executive Technical Services 1
+
+| Field | Value |
+|---|---|
+| **Job ID** | 135176 |
+| **Company** | BASF India Coatings Private Limited |
+| **Location** | Pune, Unknown |
+| **Field** | Marketing & Sales |
+| **Department** | G-ECO/AI |
+| **Level** | Professional |
+| **Type** | Permanent |
+| **Hybrid** | No |
+| **Posted** | 2026-04-10 |
+| **Apply URL (share with users)** | https://basf.jobs/job-invite/135176/?locale=en_US |
+| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-135176.html |
+| **Contact** | Neha Bharadkar | neha.bharadkar@basf.com |
+
+**Description:** O bjecti v es of t h e P osi t ion Support in achiving Sales Targets volume Value in Tata Motors Pantnagar Day to day Technical Service for our products being used at line. Line trials,testing and continuous improvement on line. On line Trouble Shooting to support customer for our products M ain Are...
 
 ---
 
