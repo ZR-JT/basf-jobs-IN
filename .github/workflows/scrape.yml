@@ -23,7 +23,6 @@ jobs:
       - name: Scraper ausfuehren
         run: |
           python scraper.py
-          python events_scraper.py
       - name: Dateien committen
         run: |
           git config user.name "github-actions[bot]"
