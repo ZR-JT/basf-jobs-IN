@@ -1,6 +1,6 @@
 # BASF Jobs India
 
-> **Last updated: 2026-04-10T06:21:17Z**
+> **Last updated: 2026-04-13T09:56:44Z**
 > Total positions: **40** | Locations: **11**
 
 ---
@@ -40,8 +40,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2026-02-04 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/132997/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-132997.html |
+| **Link** | https://basf.jobs/job-invite/132997/?locale=en_US |
 | **Contact** | Luis Rodriguez Rizk | luis.a.rodriguez@basf.com |
 
 **Description:** WELCOME TO BASF &#13; At BASF Digital Hub Hyderabad, we’re shaping the future of the chemical industry through innovation, creativity, and collaboration. As we continue to grow, we’re building a talent pipeline for IT Professionals who want to make a difference. WHY JOIN OUR TALENT COMMUNITY? &#13; ...
@@ -64,9 +63,8 @@
 | **Level** | Professional |
 | **Type** | Permanent |
 | **Hybrid** | No |
-| **Posted** | 2026-01-12 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/131886/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-131886.html |
+| **Posted** | 2026-04-13 |
+| **Link** | https://basf.jobs/job-invite/131886/?locale=en_US |
 | **Contact** | Sejal Sandeep Singh | sejal.sandeep-singh@partners.basf.com |
 
 **Description:** Objectives of the Position: To support customers and Technical Sales (Services and development) on technical solutions through technical development and drive PMU Projects. Identifying customer needs and opportunities in the field of PU Systems through Technical Development. PU system development, o...
@@ -90,8 +88,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2026-02-04 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/132756/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-132756.html |
+| **Link** | https://basf.jobs/job-invite/132756/?locale=en_US |
 | **Contact** | Sejal Sandeep Singh | sejal.sandeep-singh@partners.basf.com |
 
 **Description:** Objectives of the Position: As a designated Shift Supervisor, takes responsibility of Safety, Production, Quality of System House plant in the shifts. Main Tasks: Coordinate and manage production in shift with consistent Quality and Safety as per the target. Manage the manpower planning in the shift...
@@ -113,8 +110,7 @@
 | **Type** |  |
 | **Hybrid** | No |
 | **Posted** | 2024-11-26 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/113312/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-113312.html |
+| **Link** | https://basf.jobs/job-invite/113312/?locale=en_US |
 | **Contact** | Phuong Nguyen Thi Hoai | phuong.hoai@basf.com |
 
 **Description:** O bjecti v es of t h e P osi t ion Maintenance of plant equipment including twin screw extruders, pelletizers, loss in weight feeders, pneumatic conveying systems, classifiers, packaging and sealing machines, etc. Utility In charge: Responsible for smooth operation of Utility equipment at site, Prev...
@@ -138,8 +134,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2025-10-09 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/128583/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-128583.html |
+| **Link** | https://basf.jobs/job-invite/128583/?locale=en_US |
 | **Contact** | Santhosh Pai | santhosh.pai@basf.com | +91824223-7114 |
 
 **Description:** Objectives of the Position Responsibility of Technical, Quality and cost-effective manufacturing of Dispersions Operations. It also involves plant and process safety, Health and Environmental activities related to the plant and personnel working in the plant. Main Areas of Responsibilities and Key A...
@@ -159,8 +154,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2025-02-18 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/117661/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-117661.html |
+| **Link** | https://basf.jobs/job-invite/117661/?locale=en_US |
 | **Contact** | Deepashri Nair | deepashri.nair@basf.com | +910226791-7499 |
 
 **Description:** O bjecti v es of t h e P osi t ion: Lead Safety, Health and Environment at workplace. Coordinating and monitoring the production as per the decided norms, under the directions of Production Manager. To supervise and monitor planned production activities in respective shift through a team of workmen,...
@@ -180,8 +174,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2025-01-07 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/115619/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-115619.html |
+| **Link** | https://basf.jobs/job-invite/115619/?locale=en_US |
 | **Contact** | Deepashri Nair | deepashri.nair@basf.com | +910226791-7499 |
 
 **Description:** O bjecti v es of t h e P osi t ion Responsibility of Technical, Quality and cost-effective manufacturing of Dispersions Operations. It also involves plant and process safety, Health and Environmental activities related to the plant and personnel working in the plant. M ain Areas of Responsibilities ...
@@ -205,8 +198,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2026-04-09 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/135033/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-135033.html |
+| **Link** | https://basf.jobs/job-invite/135033/?locale=en_US |
 | **Contact** | Barkha Dawra | barkha.dawra@partners.basf.com |
 
 **Description:** About The Role Develop and implement the sales activities to realize the mid and long-term objectives of the plastic additives business both Up Stream (Polymer Manufacturer) and Down Stream (Converter/ Compounder/ Masterbatcher) in India How Will You Do It Sales development: Develop sales plan and e...
@@ -226,8 +218,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2026-04-08 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/135326/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-135326.html |
+| **Link** | https://basf.jobs/job-invite/135326/?locale=en_US |
 | **Contact** | Sejal Sandeep Singh | sejal.sandeep-singh@partners.basf.com |
 
 **Description:** About The Role Lead PM Controlling team in India by steering, providing guidance and inspiring the team to be valued business partners for stakeholders in India. Be responsible for overall controlling, reporting, business analysis activities and ensuring compliance in India. Represent PM interest in...
@@ -247,8 +238,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2026-04-06 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/135172/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-135172.html |
+| **Link** | https://basf.jobs/job-invite/135172/?locale=en_US |
 | **Contact** | Barkha Dawra | barkha.dawra@partners.basf.com |
 
 **Description:** About The Role Manage OTC (Order to Cash) interfaces with internal external customers efficiently and effectively. How Will You Do It Perform Sales and Delivery Order Management tasks in SAP. Contribute to development of customer relationships through proactive customer communication related to orde...
@@ -268,8 +258,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2026-04-06 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/126541/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-126541.html |
+| **Link** | https://basf.jobs/job-invite/126541/?locale=en_US |
 | **Contact** | Barkha Dawra | barkha.dawra@partners.basf.com |
 
 **Description:** About BASF in India BASF has successfully partnered India’s progress for more than 130 years. As of the end of 2024, BASF had 2,411 employees in India with 8 production sites and 42 offices throughout the country. The Innovation Campus Mumbai and the Coatings Technical Center in Mangalore are both p...
@@ -289,8 +278,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2026-03-31 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/135052/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-135052.html |
+| **Link** | https://basf.jobs/job-invite/135052/?locale=en_US |
 | **Contact** | Barkha Dawra | barkha.dawra@partners.basf.com |
 
 **Description:** About The Role Ensure that statutory reporting is completed in compliance manner and on timely basis. Ensure that group reporting is completed in compliant manner and on timely basis. Ensure completion of limited review and audits with quality and controls on a timely basis. Perform basic analysis o...
@@ -310,8 +298,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2026-03-31 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/134791/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-134791.html |
+| **Link** | https://basf.jobs/job-invite/134791/?locale=en_US |
 | **Contact** | Barkha Dawra | barkha.dawra@partners.basf.com |
 
 **Description:** About The Role Ensure 100% regulatory compliance of GST, Income tax Transfer Pricing Manage tax litigations and tax risks in business operations. Strive for tax optimization and tax saving opportunities. How You Will Do It Advise the management on tax impact, transaction methodology for key projects...
@@ -331,8 +318,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2026-03-28 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/134840/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-134840.html |
+| **Link** | https://basf.jobs/job-invite/134840/?locale=en_US |
 | **Contact** | Shruti Mishra | shruti.a.mishra@partners.basf.com |
 
 **Description:** Objective of the Position: The Chief Financial Officer (CFO) will be a strategic partner to the Board and Management, responsible for financial stewardship, capital allocation, and sustainable value creation for the new legal entity BASF Agricultural Solutions India Ltd. Given the Company’s stock‑ex...
@@ -352,8 +338,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2026-03-18 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/122575/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-122575.html |
+| **Link** | https://basf.jobs/job-invite/122575/?locale=en_US |
 | **Contact** | Sejal Sandeep Singh | sejal.sandeep-singh@partners.basf.com |
 
 **Description:** Objectives of the Position: We are looking for a Specialist SCM Process Management – Materials Management and Warehouse Management to support the global business. In this role, you will act as a process expert for SAP MM and WM, driving global process optimization, supporting operations, and ensurin...
@@ -373,8 +358,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2026-03-05 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/133873/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-133873.html |
+| **Link** | https://basf.jobs/job-invite/133873/?locale=en_US |
 | **Contact** | Barkha Dawra | barkha.dawra@partners.basf.com |
 
 **Description:** About The Role Provide support to all stake holders of BASF in India for the effective implementation of Organization, Occupational Safety, Environment protection Transport Safety discipline initiatives to ensure safety of employees in work, prevention of incidents and continuous improvement in EHS ...
@@ -394,8 +378,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2026-01-30 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/132795/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-132795.html |
+| **Link** | https://basf.jobs/job-invite/132795/?locale=en_US |
 | **Contact** | Caroline Pham | caroline.pham@basf.com |
 
 **Description:** About The Role Be responsible to support service recipients in implementing BASF Group EHS requirements and guidance documents, to provide consultancy and support to fulfill legal and BASF requirements on process safety in India or in Asia Pacific countries if requested Act as a Process Safety exper...
@@ -415,8 +398,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2026-01-21 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/130347/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-130347.html |
+| **Link** | https://basf.jobs/job-invite/130347/?locale=en_US |
 | **Contact** | Sejal Sandeep Singh | sejal.sandeep-singh@partners.basf.com |
 
 **Description:** Position Title : Head of Global Application Labs – Pharma Solutions Department/Function : G-ENP/ML – Global Application Lab Reporting Line: VP, Global Business Management, Excipients Biopharma (G-ENP/M) Summary of Role: Responsible for high quality, aligned and prioritized global Application and Pro...
@@ -436,8 +418,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2026-01-21 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/131049/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-131049.html |
+| **Link** | https://basf.jobs/job-invite/131049/?locale=en_US |
 | **Contact** | Sejal Sandeep Singh | sejal.sandeep-singh@partners.basf.com |
 
 **Description:** M ain T as k s General Regular customer visits to make long term relationships by providing best technical support, collection of information on new projects, promote new applications and track competitor activities. Promotion of Cellasto NVH products by replacement competing low cost materials. Ana...
@@ -457,8 +438,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2026-01-20 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/130578/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-130578.html |
+| **Link** | https://basf.jobs/job-invite/130578/?locale=en_US |
 | **Contact** | Barkha Dawra | barkha.dawra@partners.basf.com |
 
 **Description:** O bjectives of the Position : Drive Sales Business development activities for CPH SBU in sub region, including working with channel partners as appropriate M ain Tasks: CPH sales Service existing B2B customers and identify new customers to diversify customer base to ensure sustainable and healthy bu...
@@ -478,8 +458,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2026-01-20 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/132127/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-132127.html |
+| **Link** | https://basf.jobs/job-invite/132127/?locale=en_US |
 | **Contact** | Caroline Pham | caroline.pham@basf.com |
 
 **Description:** About the Role Our unit G-EVC/MA serves clients and partners with a custom and market business model. Key targets are the identification of opportunities, converting opportunities into business through technical dialogue with customers and selling value of BASF technology and capability, as well as ...
@@ -499,8 +478,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2026-01-07 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/131719/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-131719.html |
+| **Link** | https://basf.jobs/job-invite/131719/?locale=en_US |
 | **Contact** | Caroline Pham | caroline.pham@basf.com |
 
 **Description:** About the Role This role's responsibility includes handling entire gamut of direct tax compliance, litigation and advisory for Group Company of BASF India. How You Will Do It Manage Quarterly Advance tax compliances Manage Withholding tax compliance (Domestic as well as foreign vendors including Div...
@@ -520,8 +498,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2025-07-29 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/125691/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-125691.html |
+| **Link** | https://basf.jobs/job-invite/125691/?locale=en_US |
 | **Contact** | Caroline Pham | caroline.pham@basf.com |
 
 **Description:** Objectives of the Position : The Technical Expert for Plastic Additives will play a pivotal role in advancing BASF's market presence in India. This position is essential for bridging the gap between the Regional Application Center (RAC) Asia in Shanghai and the local market, ensuring that innovative...
@@ -529,6 +506,26 @@
 ---
 
 ### Navi Mumbai - HO (Innovation Campus)
+
+#### Process engineer
+
+| Field | Value |
+|---|---|
+| **Job ID** | 135271 |
+| **Company** | BASF Chemicals India Pvt. Ltd. |
+| **Location** | Navi Mumbai - HO (Innovation Campus), Maharashtra |
+| **Field** | Engineering |
+| **Department** | RGR/CD |
+| **Level** | Professional |
+| **Type** | Permanent |
+| **Hybrid** | No |
+| **Posted** | 2026-04-13 |
+| **Link** | https://basf.jobs/job-invite/135271/?locale=en_US |
+| **Contact** | Barkha Dawra | barkha.dawra@partners.basf.com |
+
+**Description:** About The Role Provide support to process engineering and technology transfer topics in India Prepare a comprehensive engineering package for process development and scale-up topics in India pertaining to batch processes Continuously support the production to optimize plant performance and output Su...
+
+---
 
 #### Research chemist
 
@@ -543,8 +540,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2026-04-06 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/135301/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-135301.html |
+| **Link** | https://basf.jobs/job-invite/135301/?locale=en_US |
 | **Contact** | Barkha Dawra | barkha.dawra@partners.basf.com |
 
 **Description:** About The Role Synthesis and scale-up of small organic molecules / intermediates / active ingredients on milligram to multikilogram quantities Planning of synthesis including retrosynthesis and literature search Process development optimization of routes to advanced intermediates/finished products (...
@@ -564,32 +560,10 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2026-04-06 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/135300/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-135300.html |
+| **Link** | https://basf.jobs/job-invite/135300/?locale=en_US |
 | **Contact** | Barkha Dawra | barkha.dawra@partners.basf.com |
 
 **Description:** About The Role Synthesis and scale-up of small organic molecules / intermediates / active ingredients on milligram to multikilogram quantities Planning of synthesis including retrosynthesis and literature search Process development optimization of routes to advanced intermediates/finished products (...
-
----
-
-#### Data Science Specialist - IP (on contract)
-
-| Field | Value |
-|---|---|
-| **Job ID** | 134065 |
-| **Company** | BASF Chemicals India Pvt. Ltd. |
-| **Location** | Navi Mumbai - HO (Innovation Campus), Maharashtra |
-| **Field** | Information Technology & Services |
-| **Department** | GBI/CF Center of Information Excellence |
-| **Level** | Professional |
-| **Type** | Temporary |
-| **Hybrid** | No |
-| **Posted** | 2026-03-05 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/134065/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-134065.html |
-| **Contact** | Sumit Roy | sumit.roy@basf.com | +912261637367   86781-7367 |
-
-**Description:** How You Will Do It Participate in the design and development of end-to-end AI and analytics full-stack solutions using relevant technologies.• Independently define solution approaches, develop required functionalities, and implement them by analyzing inputs and desired outputs. Perform data preproce...
 
 ---
 
@@ -606,8 +580,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2026-02-27 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/133476/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-133476.html |
+| **Link** | https://basf.jobs/job-invite/133476/?locale=en_US |
 | **Contact** | Sejal Sandeep Singh | sejal.sandeep-singh@partners.basf.com |
 
 **Description:** About The Role We are seeking a detail-oriented and proactive Technical Service Lab Executive to join our laboratory team. The ideal candidate will support product testing, customer complaint analysis, formulation support, and technical service activities. This role involves hands-on lab work, data ...
@@ -627,8 +600,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2026-02-27 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/133479/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-133479.html |
+| **Link** | https://basf.jobs/job-invite/133479/?locale=en_US |
 | **Contact** | Caroline Pham | caroline.pham@basf.com |
 
 **Description:** About The Role Technical key account management and key interface of customers R D Translate the customer needs into technical projects briefing Drive Technical service projects delivery with business impact How You Will Do It 1. Technical Interface Application Development Serve as the gatekeeper fo...
@@ -648,8 +620,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2026-01-21 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/131297/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-131297.html |
+| **Link** | https://basf.jobs/job-invite/131297/?locale=en_US |
 | **Contact** | Barkha Dawra | barkha.dawra@partners.basf.com |
 
 **Description:** MAIN TASKS Synthesis and scale-up of small organic molecules / intermediates / active ingredients on milligram to multikilogram quantities Planning of synthesis including retrosynthesis and literature search Process development optimization of routes to advanced intermediates/finished products (chem...
@@ -669,8 +640,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2026-01-20 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/131099/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-131099.html |
+| **Link** | https://basf.jobs/job-invite/131099/?locale=en_US |
 | **Contact** | Barkha Dawra | barkha.dawra@partners.basf.com |
 
 **Description:** Objective To lead a team of chemists and engineer for successful execution of research projects within specified timeline and budget while adhering to company EHS guidelines and policies. To create innovative projects and bring new know-how, technologies, products, and processes for the company. Mai...
@@ -690,8 +660,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2026-01-20 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/130205/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-130205.html |
+| **Link** | https://basf.jobs/job-invite/130205/?locale=en_US |
 | **Contact** | Barkha Dawra | barkha.dawra@partners.basf.com |
 
 **Description:** (A) Core Purpose Be responsible for building up application technology competences in rinse-off areas, especially bar soap and hair conditioning e.g. hair oils and shampoo. Lead and develop regional marketing concepts, support key customer projects based on identified business needs in South Asia Be...
@@ -711,8 +680,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2026-01-20 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/130215/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-130215.html |
+| **Link** | https://basf.jobs/job-invite/130215/?locale=en_US |
 | **Contact** | Barkha Dawra | barkha.dawra@partners.basf.com |
 
 **Description:** (A) Core Purpose Develop rinse-off application technology based on business needs and contribute to build up identified technical competences and the necessary know how for South Asia market and beyond. Contribute to regional technical support and preparation of promotion kits for rinse-off product ...
@@ -732,8 +700,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2024-10-30 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/97351/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-97351.html |
+| **Link** | https://basf.jobs/job-invite/97351/?locale=en_US |
 | **Contact** | Priyanka Thakur | priyanka.thakur@partners.basf.com |
 
 **Description:** QUALIFICATIONS Advanced knowledge in organic chemical synthesis with a PhD in chemistry, medicinal chemistry or related o Postdoc and experience abroad, as w ell as in crop protection or pharmaceutical research are all an advantage but not essential o good English language skills o creativity, curio...
@@ -755,8 +722,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2026-02-19 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/124942/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-124942.html |
+| **Link** | https://basf.jobs/job-invite/124942/?locale=en_US |
 | **Contact** | Sejal Sandeep Singh | sejal.sandeep-singh@partners.basf.com |
 
 **Description:** O bjectives of the Position To implement CASE and eMobility, Performance Materials India sales marketing strategy in new business development and customers’ management by initiating contacts with existing and potential customers. Develop execute Business Development plan for CASE and eMobility in ac...
@@ -776,8 +742,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2026-01-21 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/132417/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-132417.html |
+| **Link** | https://basf.jobs/job-invite/132417/?locale=en_US |
 | **Contact** | Sejal Sandeep Singh | sejal.sandeep-singh@partners.basf.com |
 
 **Description:** About the Role Support customers and Sales (Marketing) on technical solution thru Technical Service/ development and drive PMU Project management. Identify their needs and market opportunities in the field of PU Systems thru Technical Marketing / Technical Development and Service for mutual growth. ...
@@ -799,8 +764,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2026-03-02 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/133428/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-133428.html |
+| **Link** | https://basf.jobs/job-invite/133428/?locale=en_US |
 | **Contact** | Sejal Sandeep Singh | sejal.sandeep-singh@partners.basf.com |
 
 **Description:** Objectives of the Position: This position is required to guide, challenge and advise the organization towards economic decision-making and value generation. Ensure that financial practices align with the overall corporate strategy while also adhering to local regulations and standards. Enforce compl...
@@ -820,8 +784,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2026-02-04 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/127756/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-127756.html |
+| **Link** | https://basf.jobs/job-invite/127756/?locale=en_US |
 | **Contact** | Sejal Sandeep Singh | sejal.sandeep-singh@partners.basf.com |
 
 **Description:** Site HR Manager – Thane Site Location - Thane, India 1. Objectives of the Position: The Site Employee Relations Manager will play a critical role in fostering a positive work environment and enhancing employee engagement. This position is responsible for overseeing all aspects of human resources adm...
@@ -841,8 +804,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2026-01-27 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/132522/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-132522.html |
+| **Link** | https://basf.jobs/job-invite/132522/?locale=en_US |
 | **Contact** | Sejal Sandeep Singh | sejal.sandeep-singh@partners.basf.com |
 
 **Description:** About The Role According to the Plant / Production Manager’s direction and plant production guidance, implement the correct production procedures by and assigning duties to the Senior Chemist Junior Chemist and directing their activities to ensure the production completed timely in quality and quant...
@@ -866,8 +828,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2025-07-14 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/124638/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-124638.html |
+| **Link** | https://basf.jobs/job-invite/124638/?locale=en_US |
 | **Contact** | Priyanka Thakur | priyanka.thakur@partners.basf.com |
 
 **Description:** O bjectives of the Position The primary objective of this role is to develop and growth BASF’s Animal Nutrition feed additive market Act as commercial manager to handle Enzyme PI (ENE), strong focus on feed enzyme business in South India Sri Lanka Drive and grow profitably ENE sales via effective vo...
@@ -891,8 +852,7 @@
 | **Type** | Permanent |
 | **Hybrid** | No |
 | **Posted** | 2026-04-10 |
-| **Apply URL (share with users)** | https://basf.jobs/job-invite/135176/?locale=en_US |
-| **Detail URL (internal/AI only)** | https://ZR-JT.github.io/basf-jobs-IN/jobs/job-135176.html |
+| **Link** | https://basf.jobs/job-invite/135176/?locale=en_US |
 | **Contact** | Neha Bharadkar | neha.bharadkar@basf.com |
 
 **Description:** O bjecti v es of t h e P osi t ion Support in achiving Sales Targets volume Value in Tata Motors Pantnagar Day to day Technical Service for our products being used at line. Line trials,testing and continuous improvement on line. On line Trouble Shooting to support customer for our products M ain Are...
