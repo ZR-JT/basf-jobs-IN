@@ -1,7 +1,7 @@
 # BASF Jobs India
 
-> **Last updated: 2026-04-13T20:57:45Z**
-> Total positions: **40** | Locations: **11**
+> **Last updated: 2026-04-14T06:01:23Z**
+> Total positions: **41** | Locations: **11**
 
 ---
 
@@ -14,7 +14,7 @@
 | Gujarat | Dahej | 1 |
 | Gujarat | Panoli | 1 |
 | Karnataka | Mangalore | 3 |
-| Maharashtra | Godrej One - Mumbai | 16 |
+| Maharashtra | Godrej One - Mumbai | 17 |
 | Maharashtra | Navi Mumbai - HO (Innovation Campus) | 10 |
 | Maharashtra | Navi Mumbai - HO (Turbhe) | 2 |
 | Maharashtra | Thane | 3 |
@@ -184,6 +184,26 @@
 ## Maharashtra
 
 ### Godrej One - Mumbai
+
+#### Assistant Sales Manager, Pharma Solutions
+
+| Field | Value |
+|---|---|
+| **Job ID** | 135312 |
+| **Company** | BASF India Limited |
+| **Location** | Godrej One - Mumbai, Maharashtra |
+| **Field** | Marketing & Sales |
+| **Department** | G-ENP/EA |
+| **Level** | Professional |
+| **Type** | Permanent |
+| **Hybrid** | No |
+| **Posted** | 2026-04-14 |
+| **Link** | https://basf.jobs/job-invite/135312/?locale=en_US |
+| **Contact** | Sejal Sandeep Singh | sejal.sandeep-singh@partners.basf.com |
+
+**Description:** About The Role Drive sales Growth: Plan sales strategy in order to achieve agreed sales target and grow sustainably in the defined territory. Find opportunities: Develop project pipeline with customers, business partners and through partnerships with technical team Close profitable deals Market Rese...
+
+---
 
 #### Manager, Sales India
 
