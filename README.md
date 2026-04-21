@@ -1,6 +1,6 @@
 # BASF Jobs India
 
-> **Last updated: 2026-04-21T08:16:51Z**
+> **Last updated: 2026-04-21T08:23:59Z**
 > Total positions: **41** | Locations: **11**
 
 ---
@@ -27,7 +27,7 @@
 
 ### Hyderabad
 
-#### Talent Community | BASF Digital Hub Hyderabad
+#### [Talent Community | BASF Digital Hub Hyderabad](https://basf.jobs/job-invite/132997/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -51,7 +51,7 @@
 
 ### Delhi
 
-#### Assistant Manager - Technical Development Flexible PU
+#### [Assistant Manager - Technical Development Flexible PU](https://basf.jobs/job-invite/131886/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -75,7 +75,7 @@
 
 ### Dahej
 
-#### Production Executive
+#### [Production Executive](https://basf.jobs/job-invite/132756/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -97,7 +97,7 @@
 
 ### Panoli
 
-#### Mechanical Technician
+#### [Mechanical Technician](https://basf.jobs/job-invite/113312/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -121,7 +121,7 @@
 
 ### Mangalore
 
-#### Assistant Manager  - Production
+#### [Assistant Manager  - Production](https://basf.jobs/job-invite/128583/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -141,7 +141,7 @@
 
 ---
 
-#### Assistant Manager Production
+#### [Assistant Manager Production](https://basf.jobs/job-invite/117661/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -161,7 +161,7 @@
 
 ---
 
-#### Executive - Production
+#### [Executive - Production](https://basf.jobs/job-invite/115619/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -185,7 +185,7 @@
 
 ### Godrej One - Mumbai
 
-#### Assistant Sales Manager, Pharma Solutions
+#### [Assistant Sales Manager, Pharma Solutions](https://basf.jobs/job-invite/135312/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -205,7 +205,7 @@
 
 ---
 
-#### Manager, Sales India
+#### [Manager, Sales India](https://basf.jobs/job-invite/135033/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -225,7 +225,7 @@
 
 ---
 
-#### Business Controller - Performance Materials, India
+#### [Business Controller - Performance Materials, India](https://basf.jobs/job-invite/135326/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -245,7 +245,7 @@
 
 ---
 
-#### Asst Manager - Customer Service
+#### [Asst Manager - Customer Service](https://basf.jobs/job-invite/135172/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -265,7 +265,7 @@
 
 ---
 
-#### Head of Human Resources India
+#### [Head of Human Resources India](https://basf.jobs/job-invite/126541/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -285,7 +285,7 @@
 
 ---
 
-#### Deputy Manager - Reporting & MIS
+#### [Deputy Manager - Reporting & MIS](https://basf.jobs/job-invite/135052/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -305,7 +305,7 @@
 
 ---
 
-#### Head - Direct and Indirect Tax
+#### [Head - Direct and Indirect Tax](https://basf.jobs/job-invite/134791/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -325,7 +325,7 @@
 
 ---
 
-#### Chief Financial Officer - BASF Agricultural Solutions India Pvt. Ltd.
+#### [Chief Financial Officer - BASF Agricultural Solutions India Pvt. Ltd.](https://basf.jobs/job-invite/134840/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -345,7 +345,7 @@
 
 ---
 
-#### Specialist SCM Process Management - Materials Management and Warehouse Management
+#### [Specialist SCM Process Management - Materials Management and Warehouse Management](https://basf.jobs/job-invite/122575/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -365,7 +365,7 @@
 
 ---
 
-#### Manager-Occupational, Transport & Environment Safety
+#### [Manager-Occupational, Transport & Environment Safety](https://basf.jobs/job-invite/133873/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -385,7 +385,7 @@
 
 ---
 
-#### Manager - Process Safety & Emergency Response
+#### [Manager - Process Safety & Emergency Response](https://basf.jobs/job-invite/132795/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -405,7 +405,7 @@
 
 ---
 
-#### Head of Global Application Labs, Pharma Solutions
+#### [Head of Global Application Labs, Pharma Solutions](https://basf.jobs/job-invite/130347/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -425,7 +425,7 @@
 
 ---
 
-#### Assistant Manager - Application Development 1
+#### [Assistant Manager - Application Development 1](https://basf.jobs/job-invite/131049/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -445,7 +445,7 @@
 
 ---
 
-#### Deputy Manager - Sales, Acrylic Acid & Esters
+#### [Deputy Manager - Sales, Acrylic Acid & Esters](https://basf.jobs/job-invite/130578/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -465,7 +465,7 @@
 
 ---
 
-#### Manager, Technical Sales
+#### [Manager, Technical Sales](https://basf.jobs/job-invite/132127/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -485,7 +485,7 @@
 
 ---
 
-#### Direct Tax - Assistant Manager
+#### [Direct Tax - Assistant Manager](https://basf.jobs/job-invite/131719/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -505,7 +505,7 @@
 
 ---
 
-#### Technical Services Manager
+#### [Technical Services Manager](https://basf.jobs/job-invite/125691/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -527,7 +527,7 @@
 
 ### Navi Mumbai - HO (Innovation Campus)
 
-#### Process engineer
+#### [Process engineer](https://basf.jobs/job-invite/135271/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -547,7 +547,7 @@
 
 ---
 
-#### Research chemist
+#### [Research chemist](https://basf.jobs/job-invite/135301/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -567,7 +567,7 @@
 
 ---
 
-#### Research chemist
+#### [Research chemist](https://basf.jobs/job-invite/135300/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -587,7 +587,7 @@
 
 ---
 
-#### Technical Service Lab Executive
+#### [Technical Service Lab Executive](https://basf.jobs/job-invite/133476/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -607,7 +607,7 @@
 
 ---
 
-#### Deputy Manager- Technical Service - Personal Care
+#### [Deputy Manager- Technical Service - Personal Care](https://basf.jobs/job-invite/133479/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -627,7 +627,7 @@
 
 ---
 
-#### Research Chemist
+#### [Research Chemist](https://basf.jobs/job-invite/131297/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -647,7 +647,7 @@
 
 ---
 
-#### Lab Team Leader
+#### [Lab Team Leader](https://basf.jobs/job-invite/131099/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -667,7 +667,7 @@
 
 ---
 
-#### Deputy Manager - Application Technology Rinse-off
+#### [Deputy Manager - Application Technology Rinse-off](https://basf.jobs/job-invite/130205/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -687,7 +687,7 @@
 
 ---
 
-#### Chemist - Application Technology Rinse-off
+#### [Chemist - Application Technology Rinse-off](https://basf.jobs/job-invite/130215/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -707,7 +707,7 @@
 
 ---
 
-#### Team Leader Fungicide research
+#### [Team Leader Fungicide research](https://basf.jobs/job-invite/97351/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -729,7 +729,7 @@
 
 ### Navi Mumbai - HO (Turbhe)
 
-#### Business Development and TD - CASE Applications
+#### [Business Development and TD - CASE Applications](https://basf.jobs/job-invite/124942/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -749,7 +749,7 @@
 
 ---
 
-#### Lead - Technical Development, FSL and Head - PU Application Development Lab
+#### [Lead - Technical Development, FSL and Head - PU Application Development Lab](https://basf.jobs/job-invite/132417/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -771,7 +771,7 @@
 
 ### Thane
 
-#### Site Controller
+#### [Site Controller](https://basf.jobs/job-invite/133428/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -791,7 +791,7 @@
 
 ---
 
-#### Site HR & Employee Relations - Thane Site
+#### [Site HR & Employee Relations - Thane Site](https://basf.jobs/job-invite/127756/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -811,7 +811,7 @@
 
 ---
 
-#### Production Executive
+#### [Production Executive](https://basf.jobs/job-invite/132522/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -835,7 +835,7 @@
 
 ### Coimbatore
 
-#### Commercial Manager ENE Animal Nutrition
+#### [Commercial Manager ENE Animal Nutrition](https://basf.jobs/job-invite/124638/?locale=en_US)
 
 | Field | Value |
 |---|---|
@@ -859,7 +859,7 @@
 
 ### Pune
 
-#### Executive Technical Services 1
+#### [Executive Technical Services 1](https://basf.jobs/job-invite/135176/?locale=en_US)
 
 | Field | Value |
 |---|---|
