@@ -348,6 +348,9 @@ def generate_job_page(j, timestamp):
     {recruiter_section}
     <section id="apply">
       <a class="apply-btn" href="{j.get('url', '')}" target="_blank">Apply on basf.jobs →</a>
+      <p style="margin-top:14px; font-size:0.85em; color:#555;">
+        <strong>Original BASF-Link:</strong> <a href="{j.get('url', '')}" target="_blank" style="color:#004a96; word-break:break-all;">{j.get('url', '')}</a>
+      </p>
     </section>
   </article>
 </main>
